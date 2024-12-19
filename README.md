@@ -1,6 +1,6 @@
-# Enviro-Sphere ♻️🛍️
+# Enviro Sphere ♻️🛍️
 
-**Enviro-Sphere** is a platform that promotes sustainability and creativity by offering students the opportunity to shop for sustainable products made from waste materials. These materials are collected and transformed by NGOs and schools into valuable items. 70% of proceeds go towards supporting child education, while 30% helps scale this initiative for a sustainable future. 🌍✨
+**Enviro Sphere** is a platform that promotes sustainability and creativity by offering students the opportunity to shop for sustainable products made from waste materials. These materials are collected and transformed by NGOs and schools into valuable items. 70% of proceeds go towards supporting child education, while 30% helps scale this initiative for a sustainable future. 🌍✨
 
 ---
 
