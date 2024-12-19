@@ -45,12 +45,6 @@ cd Enviro_Sphere
 
 ---
 
-## 📚 Documentation:
-- [How to Contribute Waste Materials](#) (Link to Documentation)
-- [How to Shop for Sustainable Products](#) (Link to Documentation)
-
----
-
 ## 🏗️ Future Enhancements:
 - Add support for more product categories made from waste materials.
 - Expand the platform to include more schools and NGOs for wider reach.
