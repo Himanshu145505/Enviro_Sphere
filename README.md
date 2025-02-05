@@ -53,7 +53,7 @@ cd Enviro_Sphere
 ---
 
 ## 🎥 Working Project Video:
-[Click here to watch the demo](https://drive.google.com/drive/folders/1FthZz0snRcuMyxmFQLLSYcbQr6vS0xSJ?usp=drive_link)
+[Click here to watch the demo](https://drive.google.com/file/d/1_LW6YLUF5Jyq3YMYOO0i1O3V2wKkm0iw/view?usp=sharing)
 
 ---
 
